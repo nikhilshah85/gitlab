@@ -1,0 +1,21 @@
+SAAS -- Software as a Service
+PAAS -- 
+IAAS -- Infrastructure as a Service
+
+	Create a Resource (VM, Database Server, App Service, new user, roles, ....anything)
+
+		Using the Templates (JSon based Configuration Files)
+
+	do this from the command prompt
+
+		on Azure - u ARM Templates (Azure Resource Management Template)
+		TerraForm --- is an Template Management tool for All the Cloud Services
+
+
+		u need to Install CLI for the cloud
+		azure cli
+		aws cli
+		gcp cli
+
+
+	We store our template in Repository / VMS 

@@ -1,0 +1,23 @@
+1. From the Github account on browser, create a blank repository
+	copy the URL (.git)
+
+2. On the desktop, create a folder
+
+3.  git remote add origin  (url)
+
+4. inside the folder from command prompt,
+	fire git init
+
+5. create a readme.txt file manually inside the folder with some text
+	git add readme.txt
+
+6. git commit -m "This is the very first commit"
+
+7. git push -u origin master
+
+
+8. To add more files to the repositiry
+
+	git add filename with extention
+	git commit -m "your comments"
+	git push 
